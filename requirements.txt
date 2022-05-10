@@ -1,0 +1,6 @@
+qrcode
+qrtools==0.0.2
+zbar-py
+pillow
+zbarlight
+pyzbar
